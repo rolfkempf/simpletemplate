@@ -6,7 +6,7 @@
 class Simple_Template
 {
 
-
+ 
 
     /**
      * base directory for templpate-files
