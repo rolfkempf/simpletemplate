@@ -6,10 +6,12 @@ The template-files are php-files which can access the passed vars. You can use p
 ```php
 $t = new Simple_Template(); //create a new template-object
 
-$t->list = array('1', '2', '3', '4', '5', '6'); //dynamically add fields to the template-object 
+//dynamically add fields to the template-object 
+$t->list = array('1', '2', '3', '4', '5', '6'); 
 $t->var1 = 'Wooohoooo';
 
-$t->render('index.php');//call the template file "index.php"
+//call the template file "index.php"
+$t->render('index.php');
 ```
 
 
