@@ -4,7 +4,8 @@ Simple Template is a minimalistic templating mechanism that allows to pass encap
 The template-files are php-files which can access the passed vars. You can use php inside the template-files.
 
 ```php
-$t = new Simple_Template(); //create a new template-object
+//create a new template-object
+$t = new Simple_Template(); 
 
 //dynamically add fields to the template-object 
 $t->list = array('1', '2', '3', '4', '5', '6'); 
