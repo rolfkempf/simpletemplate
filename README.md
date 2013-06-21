@@ -12,4 +12,4 @@ $t->var1 = 'Wooohoooo';
 $t->render('index.php');//call the template file "index.php"
 ```
 
-Calling ```$t->render('my-template.php')``` simply includes the template-file which accesses the fields of $t via the magic method ```__get```.
+Calling ```$t->render('my-template.php')``` simply includes the template-file which accesses the fields of ```$t``` via the magic method ```__get```.
