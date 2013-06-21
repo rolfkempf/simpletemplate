@@ -45,7 +45,6 @@ class Simple_Template
     /**
      * 
      * @param String $tpl_file the file to be used as template
-     * @throws Exception
      */
     public function render($tpl_file, $echo = true)
     {
