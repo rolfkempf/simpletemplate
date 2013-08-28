@@ -3,6 +3,9 @@
 Simple Template is a minimalistic templating mechanism that allows to pass encapsuled data to a view or template file. 
 The template-files are php-files which can access the passed vars. You can use php inside the template-files.
 
+Simple Template can help you write code in environments where you can´t or don´t want to use "big" template engines (like twig, blade or moustache).
+Use the sophisticated and tested template-engines if possible. This is a class to ease the pain of writing code if you can´t use one of the big ones.
+
 ##Setting up data and calling the template##
 ```php
 //create a new template-object
