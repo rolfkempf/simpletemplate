@@ -36,5 +36,10 @@ Calling ```$t->render('my-template.php')``` simply includes the template-file wh
 
 ##To-Do##
 1. Check performance: How does it perform when it´s heavily used?
+Performs well so far.
+
 2. Can it make life easier for Wordpress-related code?
+It can help reduce writing spaghetti-code.
+
 3. Will it bring peace to the world?
+Not yet
