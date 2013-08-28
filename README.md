@@ -45,4 +45,5 @@ It can help reduce writing spaghetti-code.
 Not yet
 
 ###To-do###
-1. show examples of usage (Wordpress-Widgets?)
+1. show examples of usage (inside wordpress)
+2. convert it to a wordpress-plugin?
