@@ -34,7 +34,7 @@ Calling ```$t->render('my-template.php')``` simply includes the template-file wh
 </ul>
 ```
 
-##To-Do##
+##Some notes##
 1. Check performance: How does it perform when it´s heavily used?
 Performs well so far.
 
@@ -43,3 +43,6 @@ It can help reduce writing spaghetti-code.
 
 3. Will it bring peace to the world?
 Not yet
+
+###To-do###
+1. show examples of usage (Wordpress-Widgets?)
