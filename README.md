@@ -47,6 +47,3 @@ It can help reduce writing spaghetti-code.
 3. Will it bring peace to the world?
 Not yet
 
-###To-do###
-1. show examples of usage (inside wordpress)
-2. convert it to a wordpress-plugin?
